@@ -1,0 +1,39 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+print():
+len(): 
+range():
+input():
+str():
+int():
+float():
+
+
+
+2. In your judgment, what is the value of test functionsError Identification:
+
+In Python, test functions are invaluable for identifying errors and ensuring the reliability of code.
+Automated Testing:
+
+Python supports various testing frameworks like unittest, pytest, and nose. Mention proficiency in creating and running automated tests using these frameworks.
+Unit Testing:
+
+Understanding and implementing unit tests in Python demonstrates a commitment to code quality and reliability.
+Test Driven Development (TDD):
+
+If you've practiced TDD in Python, where tests are written before the actual code, emphasize your ability to follow this disciplined approach.
+Testing APIs and Web Services:
+
+If applicable, highlight experience in testing Python-based APIs or web services using frameworks like requests or tools like Postman.
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+The process for troubleshooting and fixing problems in a program involves a systematic approach, including understanding the problem, reproducing the scenario, checking logs, isolating the cause, using debugging tools, reviewing recent changes, consulting documentation, and conducting thorough testing. One improvement suggestion is to implement automated testing, providing continuous validation, helping prevent regressions, and contributing to the long-term reliability and stability of the code.
+

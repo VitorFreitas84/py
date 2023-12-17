@@ -1,0 +1,55 @@
+% Document class and packages
+\documentclass{article}
+\usepackage{amsmath}  % For mathematical symbols and equations
+\usepackage{graphicx}  % For including figures
+\usepackage{hyperref}  % For hyperlinks
+
+% Document content
+\begin{document}
+
+\title{A Brief Overview of the Theory of Relativity}
+\author{Your Name}
+\date{\today}
+\maketitle
+
+\section{Special Relativity}
+
+\subsection{Invariance of the Speed of Light}
+
+The theory of special relativity, developed by Albert Einstein in 1905, introduced the concept of...
+
+\subsection{Time Dilation}
+
+One of the key principles of special relativity is time dilation, which states that...
+
+\subsection{Length Contraction}
+
+Another consequence of special relativity is length contraction, where...
+
+\subsection{Mass-Energy Equivalence}
+
+The famous equation $E=mc^2$ expresses the equivalence of mass and energy.
+
+\section{General Relativity}
+
+\subsection{Curvature of Spacetime}
+
+General relativity, developed by Einstein in 1915, proposes that...
+
+\subsection{Equivalence Principle}
+
+The equivalence principle states that...
+
+\subsection{Gravitational Time Dilation}
+
+Clocks in stronger gravitational fields run slower, a phenomenon known as...
+
+\subsection{Gravitational Redshift}
+
+Light experiences a redshift in a gravitational field, a phenomenon observed in...
+
+\section{Conclusion}
+
+In conclusion, the theory of relativity has had a profound impact on our understanding of the universe...
+
+\end{document}

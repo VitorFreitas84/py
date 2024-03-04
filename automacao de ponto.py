@@ -49,7 +49,7 @@ usuario = "xxxxxxx@xxx.xxxxx.xxx"
 senha = "xxxxxxxxx"
 hora_entrada = "07:55"
 hora_saida = "12:05"
-id_botao_registrar_ponto = "vitor.freitas@unigranrio.com.br"
+id_botao_registrar_ponto = "xxxxxxxxxxxxxxxx"
 
 # Chamar a função acionar_ponto com os dados fornecidos
 acionar_ponto(usuario, senha, hora_entrada, hora_saida, id_botao_registrar_ponto)

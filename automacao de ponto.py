@@ -45,8 +45,8 @@ def acionar_ponto(usuario, senha, hora_entrada, hora_saida, id_botao_registrar_p
         driver.quit()
 
 # Substitua os valores pelos fornecidos
-usuario = "vitor.freitas@unigranrio.com.br"
-senha = "Vivi10175"
+usuario = "xxxxxxx@xxx.xxxxx.xxx"
+senha = "xxxxxxxxx"
 hora_entrada = "07:55"
 hora_saida = "12:05"
 id_botao_registrar_ponto = "vitor.freitas@unigranrio.com.br"
